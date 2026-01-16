@@ -48,3 +48,9 @@ body {
 .top {
   background: #f6f6f6;
 }
+
+.nav a:hover,
+.nav a:focus {
+  border-bottom-color: #333;
+  opacity: 0.85;
+}
